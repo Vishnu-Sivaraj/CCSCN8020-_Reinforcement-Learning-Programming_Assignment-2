@@ -127,20 +127,16 @@ They demonstrate:
 
 ## 📂 Repository Structure
 
+```text
 RL_Assignment2/
-│
-├── plots/ # Training graphs
-├── logs/ # Experiment logs
-│
-├── assignment2_utils.py # Instructor provided utilities
-├── qlearning_taxi_fixed.py # Main training script
+├── plots/                     # Training graphs
+├── logs/                      # Experiment logs
+├── assignment2_utils.py       # Instructor provided utilities
+├── qlearning_taxi_fixed.py    # Main training script
 ├── complete_results_fixed.csv # Experiment results
-├── Assignment2_Report.pdf # Final report
+├── Assignment2_Report.pdf     # Final report
 ├── requirements.txt
 └── README.md
-
-
----
 
 ## 🛠 Installation
 
