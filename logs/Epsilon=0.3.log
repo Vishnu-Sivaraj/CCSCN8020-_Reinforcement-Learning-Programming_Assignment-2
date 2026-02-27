@@ -1,0 +1,9 @@
+Q-Learning: alpha=0.1, epsilon=0.3, gamma=0.9
+Ep 0: Avg reward (last 1000)=-596.0
+Ep 1000: Avg reward (last 1000)=-175.5
+Ep 2000: Avg reward (last 1000)=-21.1
+Ep 3000: Avg reward (last 1000)=-14.7
+Ep 4000: Avg reward (last 1000)=-14.5
+FINAL: episodes=5000, avg_return_all=-48.1, avg_return_last1000=-13.9, avg_steps=36.4, best=15
+TRAIN_TIME_SECONDS=1.985061
+EVAL (epsilon=0): episodes=100, eval_avg_return=8.19, eval_avg_steps=12.81, success_rate=100.00%

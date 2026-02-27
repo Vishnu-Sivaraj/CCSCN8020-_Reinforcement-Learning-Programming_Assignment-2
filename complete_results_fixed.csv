@@ -1,0 +1,7 @@
+config,alpha,epsilon,avg_return_all,avg_return_last1000,avg_steps,best,train_time_s,eval_avg_return,eval_avg_steps,eval_success_rate,log,plot
+Alpha=0.1,0.1,0.1,-21.7414,2.308,30.4558,15.0,1.6493983000109438,8.03,12.97,1.0,logs/Alpha=0.1.log,plots/Alpha=0.1.png
+Alpha=0.01,0.01,0.1,-161.4332,-79.639,127.8398,15.0,6.613542999984929,-258.3,188.46,0.06,logs/Alpha=0.01.log,plots/Alpha=0.01.png
+Alpha=0.001,0.001,0.1,-258.2638,-249.983,185.1364,12.0,9.615531499992358,-200.0,200.0,0.0,logs/Alpha=0.001.log,plots/Alpha=0.001.png
+Alpha=0.2,0.2,0.1,-11.6586,2.337,23.5272,15.0,1.2680931000213604,8.0,13.0,1.0,logs/Alpha=0.2.log,plots/Alpha=0.2.png
+Epsilon=0.2,0.1,0.2,-32.6568,-4.736,32.7732,15.0,1.7479722000134643,8.0,13.0,1.0,logs/Epsilon=0.2.log,plots/Epsilon=0.2.png
+Epsilon=0.3,0.1,0.3,-48.0622,-13.93,36.3946,15.0,1.9850605999818072,8.19,12.81,1.0,logs/Epsilon=0.3.log,plots/Epsilon=0.3.png
